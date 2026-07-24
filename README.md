@@ -1,30 +1,52 @@
 # Hi, I'm Rishi 👋
 
-### AI/ML Student • Machine Learning Practitioner • GenAI Enthusiast
+I'm an AI & ML undergraduate who enjoys building software around ideas I find interesting.
 
-I'm an undergraduate student in Artificial Intelligence & Machine Learning at Anurag University.
+Some projects begin as coursework, some as portfolio ideas, and others from problems I run into. Regardless of how they start, I enjoy taking an idea and seeing how far I can push it.
 
-My interests span machine learning, AI applications, and software development. Most of my recent work has involved building projects that combine data, APIs, and user-facing applications while exploring how modern AI systems are developed and deployed.
+If you find something interesting, have a better approach, or just want to share an idea, I'd love to hear from you.
 
-### What I'm Working On
+---
 
-* Building OSSNavigator, a platform aimed at making open-source projects easier to explore and contribute to
-* Learning backend development with FastAPI and REST APIs
-* Exploring practical applications of LLMs and AI-assisted systems
-* Expanding my understanding of software engineering through project-based learning
+## Featured Projects
 
-### A Few Things I've Built
+| Project | Description |
+|---------|-------------|
+| **OSSNavigator** | Helping developers understand open-source projects and become contribution-ready. |
+| **KOTTU** | Behavioral authentication using keystroke dynamics and LSTM networks. |
+| **Spaceverse** | Interactive 3D Solar System Simulator. |
+| **BeaconAI** | AI-powered government scheme recommendation platform. |
+| **Airline Passenger Forecaster** | Time-series forecasting with an interactive Streamlit dashboard. |
 
-* **OSSNavigator** — Open Source Contribution Navigator
-* **Spaceverse** — Interactive 3D Solar System Simulator
-* **Telecom Churn Prediction** — Machine Learning project for customer churn analysis
-* **Student Buddy Chatbot** — Conversational assistant project
+---
 
-### Background
+## Other Projects
 
-* Tech Lead, VISWAM.AI Summer of AI Program
-* Worked on data collection and preparation efforts supporting Telugu LLM development
-* Experience with Python, FastAPI, Scikit-Learn, Pandas, NumPy, Git, and MySQL
+- Machine Learning algorithms
+- Data analysis & visualization
+- Time-series forecasting
+- College coursework
+- Hackathon projects
+- Small experiments & prototypes
+
+---
+
+## Tech Stack
+
+**Languages**  
+Python • Java • SQL
+
+**Backend**  
+FastAPI
+
+**Machine Learning**  
+TensorFlow • Scikit-learn • Pandas • NumPy
+
+**Databases**  
+MySQL • SQLite
+
+**Tools**  
+Git • GitHub • Streamlit • VS Code
 
 ---
 
