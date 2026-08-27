@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rishi-ankathi/"><img src="https://img.shields.io/badge/LinkedIn-9B1A1E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
   <a href="https://www.kaggle.com/rishiankathi"><img src="https://img.shields.io/badge/Kaggle-9B1A1E?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /></a>
   <a href="https://leetcode.com/u/RishiAnkkathi/"><img src="https://img.shields.io/badge/LeetCode-9B1A1E?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" /></a>
-  <a href="mailto:ankathirishi@gmail.com"><img src="https://img.shields.io/badge/Email-9B1A1E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ankathirishi@gmail.com"><img src="https://img.shields.io/badge/Email-9B1A1E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 ## 🕸️ Origin Story
