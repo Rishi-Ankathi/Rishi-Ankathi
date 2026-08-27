@@ -8,7 +8,7 @@
   <a href="mailto:ankathirishi@gmail.com"><img src="https://img.shields.io/badge/Email-9B1A1E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
-<img src="SecOrigin.png" alt="Origin Story" width="100%" />
+## 🕸️ Origin Story
 
 Every origin story starts somewhere ordinary. Mine starts with a B.Tech in AI &amp; ML at **Anurag University**, Hyderabad *(2023 – 2027)*.
 
@@ -16,7 +16,9 @@ I build practical software systems — mostly around machine learning, backend s
 
 If you spot a better approach or want to share an idea, my inbox is open.
 
-<img src="SecMissions.png" alt="Active Missions" width="100%" />
+---
+
+## 💥 Active Missions
 
 <table width="100%">
 <tr>
@@ -81,16 +83,22 @@ I worked on the AI chatbot that answers space and astronomy questions, plus depl
 
 </details>
 
-<img src="SecTech.png" alt="Suit Tech" width="100%" />
+---
+
+## 🦾 Suit Tech
 
 <img src="SuitTech.png" alt="Languages: Python, Java, C, SQL. Machine learning: TensorFlow, Scikit-Learn, Pandas, NumPy. Backend: FastAPI, Node.js, Express, REST APIs. Core CS: DSA, OOP, DBMS. Tooling: Git, GitHub, Streamlit, VS Code." width="100%" />
 
-<img src="SecHighlights.png" alt="Highlights" width="100%" />
+---
+
+## 🎖️ Highlights
 
 - **National Finalist** — India Innovates 2K26, national final round in Delhi
 - **1st Prize** — TEJAS 2K26 Project Expo (AI Department) for Spaceverse
 - **HIVE Innovation Program** — Spaceverse selected for institutional incubation and funding
 - **Smart Coder, Silver** — Smart Interviews *(Global rank 7371 / 47484 in DSA)*
+
+---
 
 <div align="center">
   <img src="Footer.png" alt="To be continued" width="100%" />
